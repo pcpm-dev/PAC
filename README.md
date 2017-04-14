@@ -6,3 +6,5 @@ This is the PAC PMO website GIT repository. The directory structure is very simp
 - Documents (for all non-HTML documents, e.g. PPT, .PDF, etc.)
 
 NOTE: I HIGHLY suggest NOT using documents that are nont PDFs on the site. All files should be converted to PDF.
+
+For help with markdown, use [this site](https://en.support.wordpress.com/markdown-quick-reference/).
